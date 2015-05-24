@@ -14,9 +14,9 @@
  * DB_PASS: the password of the above user
  */
 define("DB_HOST", "127.0.0.1");
-define("DB_NAME", "game");
-define("DB_USER", "game");
-define("DB_PASS", "password");
+define("DB_NAME", "yourdbname");
+define("DB_USER", "yourdbuser");
+define("DB_PASS", "yourdbpassword");
 
 /**
  * Configuration for: Cookies
